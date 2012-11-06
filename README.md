@@ -3,6 +3,8 @@ Nice Meteor Stuff
 
 *Nice links, presentations, articles for Meteor programming and related*
 
-* http://stackoverflow.com/questions/10257958/server-cleanup-after-a-client-disconnects
-* https://github.com/oortcloud/unofficial-meteor-faq
-* https://github.com/meteor/meteor/wiki/Handlebars
+* [Official Meteor Website](http://meteor.com/)
+* [Unnonficial Meteor FAQ](https://github.com/oortcloud/unofficial-meteor-faq)
+* [How to handle client disconnection](http://stackoverflow.com/questions/10257958/server-cleanup-after-a-client-disconnects)
+* [Handlebars and Meteor](https://github.com/meteor/meteor/wiki/Handlebars)
+* [Meteor Screencast Youtube Channel](http://www.youtube.com/user/meteorscreencasts)
