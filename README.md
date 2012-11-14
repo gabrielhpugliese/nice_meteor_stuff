@@ -8,3 +8,4 @@ Nice Meteor Stuff
 * [How to handle client disconnection](http://stackoverflow.com/questions/10257958/server-cleanup-after-a-client-disconnects)
 * [Handlebars and Meteor](https://github.com/meteor/meteor/wiki/Handlebars)
 * [Meteor Screencast Youtube Channel](http://www.youtube.com/user/meteorscreencasts)
+* [Project to make REST APIs](https://github.com/crazytoad/meteor-collectionapi)
