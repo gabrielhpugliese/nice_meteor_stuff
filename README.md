@@ -14,6 +14,7 @@ Hosting
 -------------
 
 * [Where can we host meteor/meteorite apps](http://stackoverflow.com/questions/13504324/where-can-we-host-meteor-meteorite-applications/13504325#13504325)
+* [How to deploy on Amazon EC2](http://julien-c.fr/2012/10/meteor-amazon-ec2/)
 
 Connection
 -------------
