@@ -9,6 +9,7 @@ About Everything Docs/Vids
 * [Official Meteor Website](http://meteor.com/)
 * [Unnonficial Meteor FAQ](https://github.com/oortcloud/unofficial-meteor-faq)
 * [Meteor Screencast Youtube Channel](http://www.youtube.com/user/meteorscreencasts)
+* [Eventedmind - Lots of nice stuff](http://www.eventedmind.com/)
 
 Hosting
 -------------
