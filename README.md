@@ -20,6 +20,7 @@ Hosting
 Connection
 -------------
 * [How to handle client disconnection](http://stackoverflow.com/questions/10257958/server-cleanup-after-a-client-disconnects)
+* [Async handling in Meteor](https://gist.github.com/possibilities/3443021)
 
 Handlebars
 -------------
