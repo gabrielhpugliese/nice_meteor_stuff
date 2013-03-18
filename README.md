@@ -34,3 +34,4 @@ MISC
 -------------
 
 * [Project to make REST APIs](https://github.com/crazytoad/meteor-collectionapi)
+* [Meteorite Smart Package](http://oortcloud.github.com/meteorite/)
